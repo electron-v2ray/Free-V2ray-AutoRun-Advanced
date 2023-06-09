@@ -12,5 +12,7 @@
 > نمایش آخرین آیپی آدرس ها و دامین
 > دارای بخش آموزش
 
+![sc](https://github.com/electron-v2ray/Free-V2ray-AutoRun-Advanced/assets/129282445/3a9991ea-4247-4b3e-a214-f55b9fed1c06)
+
+
 ```
-![sc](https://github.com/electron-v2ray/Free-V2ray-AutoRun-Advanced/assets/129282445/833b5fad-19ab-4e6d-954a-45adf55dc9e7)
