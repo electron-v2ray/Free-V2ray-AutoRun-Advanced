@@ -12,4 +12,4 @@
 ### نمایش آخرین آیپی آدرس ها و دامین :gem:	
 ### دارای بخش آموزش :gem:	
 
-![sc](https://github.com/electron-v2ray/Free-V2ray-AutoRun-Advanced/assets/129282445/73c8940e-acee-45e1-a7fd-5975c5c439b7)
+![sc](https://github.com/electron-v2ray/Free-V2ray-AutoRun-Advanced/assets/129282445/d1d54956-822a-4391-b856-a012f4e780f0)
