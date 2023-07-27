@@ -7,6 +7,8 @@ The features of Free-V2ray-AutoRun-Advanced include continuous update of sub-lin
 
 Free-V2ray-AutoRun-Advanced is designed using Python and Lua programming languages and is licensed under GPL-3.0. This software is accessible on GitHub and available for everyone to use.
 
-
+![GitHub last commit](https://img.shields.io/github/last-commit/electron-v2ray/Free-V2ray-AutoRun-Advanced)
+![ViewCount](https://views.whatilearened.today/views/github/electron-v2ray/repo.svg)
+![GitHub stars](https://img.shields.io/github/stars/electron-v2ray/Free-V2ray-AutoRun-Advanced)
 
 ![sc 1 ](https://github.com/electron-v2ray/Free-V2ray-AutoRun-Advanced/assets/129282445/b4bafd2f-78ab-4d39-bfe3-6b74e95b07c0)
