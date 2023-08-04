@@ -12,4 +12,4 @@ Free-V2ray-AutoRun-Advanced is designed using Python and Lua programming languag
 ![GitHub stars](https://img.shields.io/github/stars/electron-v2ray/Free-V2ray-AutoRun-Advanced)
 ![GitHub license](https://img.shields.io/github/license/electron-v2ray/Free-V2ray-AutoRun-Advanced)
 
-![sc 1 ](https://github.com/electron-v2ray/Free-V2ray-AutoRun-Advanced/assets/129282445/b4bafd2f-78ab-4d39-bfe3-6b74e95b07c0)
+![sc](https://github.com/electron-v2ray/Free-V2ray-AutoRun-Advanced/assets/129282445/d43ce8d8-b3e4-4f76-8b11-5b8d804fe64f)
