@@ -1,3 +1,5 @@
+vless://8bae18a2-9ba3-44eb-b02a-022927399a02@ge2ray.funnyv2m.fun:55495?type=tcp&security=reality&fp=chrome&pbk=x39AwP7pYYdmrZNKc6z_F89UQCplp9FnAMnxPiyY5RI&sni=www.speedtest.net&sid=18ca06f2&spx=%2F#%40Ge2ray%20Free%20%F0%9F%96%A4
+
 
 vless://469f9d73-4a57-42c2-8638-ab5e7f360005@cdn1212.akbari.top:2096?security=reality&encryption=none&pbk=PpVd-kSXDj6DibyftKxs4PIO1WlRAauGW6KeJsDtNmQ&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=www.zula.ir&sid=2216d965#VIP-%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB+%E2%9E%AA%40ConfigV2rayForFree
 
