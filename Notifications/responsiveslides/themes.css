@@ -1,0 +1,159 @@
+* {
+  margin: 0;
+  padding: 0;
+  }
+
+
+body {
+  color: #333;
+  font: 14px/24px sans-serif;
+   max-width: 405px;
+  _width: 405px;
+    
+  padding: 0 0px;
+  text-align: center;
+  -webkit-font-smoothing: antialiased;
+  }
+
+#wrapper {
+  float: left;
+  width: 100%;
+  margin-bottom: 50px;
+  }
+
+h1 {
+  font: 600 28px/36px sans-serif;
+  margin: 50px 0;
+  }
+
+h3 {
+  font: 600 18px/24px sans-serif;
+  color: #999;
+  margin: 0 0 20px;
+  }
+
+a {
+  color: #222;
+  }
+
+.rslides {
+  margin: 0 auto;
+  z-index: -5000;
+    height: 216px;
+  }
+
+.rslides_container {
+  margin-bottom: 50px;
+  position: relative;
+  float: left;
+  width: 100%;
+    z-index: -5000;
+  }
+
+
+.centered-btns_nav:active {
+  opacity: 1.0;
+  }
+
+.centered-btns_nav.next {
+  left: auto;
+  background-position: right top;
+  right: 0;
+  }
+
+.transparent-btns_nav {
+  z-index: 3;
+  position: absolute;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  top: 0;
+  left: 0;
+  display: block;
+  background: #fff; /* Fix for IE6-9 */
+  opacity: 0;
+  filter: alpha(opacity=1);
+  width: 48%;
+  text-indent: -9999px;
+  overflow: hidden;
+  height: 91%;
+    
+  }
+
+.transparent-btns_nav.next {
+  left: auto;
+  right: 0;
+  }
+
+.large-btns_nav {
+  z-index: 3;
+  position: absolute;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  opacity: 0.6;
+  text-indent: -9999px;
+  overflow: hidden;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  background: #000 url("themes.gif") no-repeat left 50%;
+  width: 38px;
+  }
+
+.large-btns_nav:active {
+  opacity: 1.0;
+  }
+
+.large-btns_nav.next {
+  left: auto;
+  background-position: right 50%;
+  right: 0;
+  }
+
+.centered-btns_nav:focus,
+.transparent-btns_nav:focus,
+.large-btns_nav:focus {
+  outline: none;
+  }
+
+.centered-btns_tabs,
+.transparent-btns_tabs,
+.large-btns_tabs {
+  margin-top: -13px;
+  text-align: center;
+    
+  }
+
+.centered-btns_tabs li,
+.transparent-btns_tabs li,
+.large-btns_tabs li {
+    z-index: 5000;
+    
+  display: inline;
+  float: none;
+  _float: left;
+  *float: left;
+  margin-right: 5px;
+  }
+
+.centered-btns_tabs a,
+.transparent-btns_tabs a,
+.large-btns_tabs a {
+    z-index: 5000;
+    text-indent: -9999px;
+  overflow: hidden;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  background: #ccc;
+  background-color: rgba(225, 13, 57, .2);
+  display: inline-block;
+  _display: block;
+  *display: block;
+  width: 9px;
+  height: 9px;
+  }
+
+.centered-btns_here a,
+.transparent-btns_here a,
+.large-btns_here a {
+    z-index: 5000;
+  background: #222;
+    background-color: #E10D39;
+  }
